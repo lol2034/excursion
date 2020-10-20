@@ -1,0 +1,32 @@
+body {
+	background-color: black;
+	text-align: center;
+}
+
+.text {
+	color: gray;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-weight: normal;
+	font-size: 21px;
+}
+
+.headline {
+	color: white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', 'serif';
+	font-weight: 300;
+	font-size: 42px;
+}
+
+#headliner {
+	font-size: 50px;
+}
+
+.link {
+	color: aquamarine;
+	font-size: 16px;
+}
+
+footer {
+	text-align: right;
+	color: gray;
+}
